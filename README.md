@@ -24,7 +24,7 @@ These datasets contain reviews about Hotel and Restaurant from Yelp.
 Data were preprocessed and features have been extracted from review texts, reviewers and products metadata. Details about preprocessing phase and feature extraction is described in the work [EUPHORIA:  A neural multi-view approach to combine content and behavioral features in review spam detection](https://doi.org/10.1016/j.jcmds.2022.100036)
 
 ## How to use
-Repository contains scripts of all experiments included in the paper:
+Repository contains scripts of all experiments included in the paper. All scripts are contained in src folder:
 * __main.py__: script to run GLORIA
 * __centrality.py__: script to compute centrality of nodes
 * __scatter_plot.py__: script to plot scatter plots from centralities
