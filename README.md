@@ -4,7 +4,7 @@ The repository contains code refered to the work:
 
 _Giuseppina Andresini, Annalisa Appice, Roberto Gasbarro, Donato Malerba_
 
-**GLORIA: A Graph Convolutional Network-based Approach for Review Spam Detection**   _(accepted for publication)_
+**GLORIA: A Graph Convolutional Network-based Approach for Review Spam Detection**   _(accepted for publication at 26th International Conference on Discovery Science (DS 2023))_
 
 
 Please cite our work if you find it useful for your research and work.
