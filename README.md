@@ -34,7 +34,7 @@ Code contains models used for experiments and an example dataset.
 
 ## Replicate the experiments
 To replicate experiments reported in the work, you can use models stored in models folder. You need to download dataset from dataset author site and preprocess them as explained in the work [EUPHORIA:  A neural multi-view approach to combine content and behavioral features in review spam detection](https://doi.org/10.1016/j.jcmds.2022.100036)
-Tu used serialized models, you need to edit global variables __config.conf__ and set 'test' mode and model name.
+To use serialized models, you need to edit global variables __config.conf__ and set 'test' mode and model name.
 
 ```python
     mode = test
